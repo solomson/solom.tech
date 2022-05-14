@@ -15,6 +15,7 @@ url: "https://solom.no" # the base hostname & protocol for your site
 twitter_username: ASolemdal
 github_username: audunsolemdal
 permalink: /:year/:month/:title.html
+issues_repo: audunsolemdal/audunsolemdal.github.io
 excerpt_separator: "<!--more-->" # Use excerpts on front page
 
 # Build settings

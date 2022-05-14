@@ -33,5 +33,11 @@ layout: main
   <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
+
+  {% if page.comments_id %}
+  {% include comments.html issue_id=page.comments_id %}
+{% endif %}
+
 </div>
+
 <hr class="tight">
