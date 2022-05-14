@@ -102,7 +102,7 @@ const renderComments = (comments) => {
 
     return `<li class="comment">
                 <div class="commenter">
-                    <img src="${user.avatar_url}" alt="" aria-hidden="true" class="meta avatar" />
+                    <img src="${user.avatar_url}" alt="" aria-hidden="true" class="meta avatar" style="max-width:100px;width:100%;max-height:100px;height:100%">/>
                     <a
                         href="https://github.com/${user.login}"
                         class="meta username"
