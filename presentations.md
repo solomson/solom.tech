@@ -1,6 +1,6 @@
 ---
 layout: presentations
-title: Our Presentations
+title: Presentations
 permalink: presentations
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Our blog posts
+title: Blog
 permalink: blog
 ---
 
