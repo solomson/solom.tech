@@ -6,4 +6,4 @@ permalink: presentations
 
 ### Our presentations are available here:
 
-<a href="{{site.baseurl}}/assets/pdf/Dummy.pdf">Example presentation </a>
+<a href="{{site.baseurl}}/assets/presentations/Dummy.pdf">Example presentation </a>
