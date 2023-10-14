@@ -2205,14 +2205,16 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.image.customer {
-			width: 100%;
-			max-width:600px;
-
-			max-width:500px;
-			max-height:281px;
-			object-fit:scale-down;
-		}
+			.image.customer img {
+				width: 100%;
+				max-width:600px;
+				max-height:281px;
+				object-fit:scale-down;
+			}
+	
+				.image.customer:before {
+					display: none;
+				}
 
 /* List */
 
