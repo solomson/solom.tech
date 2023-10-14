@@ -26,13 +26,21 @@ Among the things we can provide for your platform are:
 We can provide you with high quality guidance and quick implementation in the following areas: 
 
   - Microsoft Azure
+    - We have worked with Azure since 2018, and have experience with a large portion of the services offered. Contact us if you have questions regarding specific services.
   - Managing version control for your enterprise at scale
     - Github
     - Azure DevOps
     - Gitlab
   - Kubernetes, Cloud Native & container based solutinos
   - Establishing and optimizing CI/CD at scale
-  - Azure security and identity security at scale (Microsoft Entra, IaC, Private networking, RBAC, Azure policies, PIM)
+  - Azure security and identity security at scale 
+    - Microsoft Entra
+    - IaC
+    -  Private networking
+    -  RBAC
+    -  Azure policy 
+    -  PIM
+    -  Conditional access
 
 ###  Training
 
