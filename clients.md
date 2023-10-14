@@ -8,7 +8,7 @@ Clients we have helped meet their goals so far.
 Details of what the projects entailed are described <a href="/online-cv#projects"> here</a>.
 
 ### Artsdatabanken
-<a class="image fit" href="https://artsdatabanken.no/"><img src="/assets/img/mdir.png" alt="Artsdatabanken" /></a>
+<a class="image fit" href="https://artsdatabanken.no/"><img src="/assets/img/adb.png" alt="Artsdatabanken" /></a>
 May 2023 - present (part time via contract from Norwegian Environment Agency)
 
 
@@ -18,7 +18,7 @@ June 2022 - present (full time)
 
 
 ### Norwegian Directorate of Health
-<a class="image fit" href="https://helsedirektoratet.no/"><img src="/assets/img/mdir.png" alt="Helsedirektoratet" /></a>
+<a class="image fit" href="https://helsedirektoratet.no/"><img src="/assets/img/hdir.png" alt="Helsedirektoratet" /></a>
 September 2021 - June 2022 (full time) 
 
 
