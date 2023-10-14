@@ -1,10 +1,10 @@
 ---
-layout: about
+layout: main
 title: About
-permalink: about
+permalink: /about/
 ---
 
-We are a small company specializing in Microsoft cloud solutions. We are based in Trondheim, Norway and have been in business since 2021. We are a Microsoft partner and have been working with Microsoft Azure since 2018. We have experience with both small and large customers in both public and private sectors. and have worked with everything from small web applications to large enterprise solutions.
+We are a small company specializing in Microsoft cloud solutions. We are based in Trondheim, Norway and have been in business since 2021. We are a Microsoft partner and have been working with Microsoft Azure since 2018. We have experience with both small and large clients in both public and private sectors. and have worked with everything from small web applications to large enterprise solutions.
 
 ## Our services
 
@@ -12,8 +12,8 @@ We are a small company specializing in Microsoft cloud solutions. We are based i
 
 Need a cloud platform implemented, preferably last year? You are not alone.
 
-We have experience in both setting up cloud environments from scratch, and can help you get started with your cloud journey. If you are an existing Azure customer, we can help you optimize your existing cloud environment according to your business needs.
-Our customers are all managed by standardized infrastructure as code. This means that we can quickly and efficiently set up new environments. The code will be your IP, and you will have full control over your platform's high-quality, secure and scalable IaC code.
+We have experience in both setting up cloud environments from scratch, and can help you get started with your cloud journey. If you are an existing Azure client, we can help you optimize your existing cloud environment according to your business needs.
+Our clients are all managed by standardized infrastructure as code. This means that we can quickly and efficiently set up new environments. The code will be your IP, and you will have full control over your platform's high-quality, secure and scalable IaC code.
 
 We can provide you with:
 - High level design for your platform platform based on Microsoft's best practices (Cloud Adoption Framework)

@@ -2146,14 +2146,14 @@ input, select, textarea {
 				width: 100%;
 			}
 
-			.image.customer img {
+			.image.client img {
 				width: 100%;
 				max-width:600px;
 				max-height:281px;
 				object-fit:scale-down;
 			}
 	
-				.image.customer:before {
+				.image.client:before {
 					display: none;
 				}
 
