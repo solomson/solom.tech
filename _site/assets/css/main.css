@@ -1829,9 +1829,7 @@ input, select, textarea {
 		}
 
 	#header .toggle-btn {
-		position: relative;
-		left: 83%;
-		top: 5%;
+		width: 50%;
 		margin-bottom: 5%;
 	}
 	
@@ -3061,7 +3059,7 @@ input, select, textarea {
 
 			#header {
 				padding: 6em 3em 3em 3em;
-				width: 30%;
+				width: 18%;
 			}
 
 				#header h1 {
