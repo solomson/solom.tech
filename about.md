@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Us
+title: About
 permalink: about
 ---
 
@@ -13,7 +13,6 @@ We are a small company specializing in Microsoft cloud solutions. We are based i
 Need a cloud platform implemented, preferably last year? You are not alone.
 
 We have experience in both setting up cloud environments from scratch, and can help you get started with your cloud journey. If you are an existing Azure customer, we can help you optimize your existing cloud environment according to your business needs.
-
 Our customers are all managed by standardized infrastructure as code. This means that we can quickly and efficiently set up new environments. The code will be your IP, and you will have full control over your platform's high-quality, secure and scalable IaC code.
 
 We can provide you with:
