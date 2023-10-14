@@ -4,8 +4,6 @@ title: Our services
 permalink: services
 ---
 
-We can offer expertise in the following areas:
-
 ## Platform
 
 Need a cloud platform implemented, preferably last year? You are not alone.
