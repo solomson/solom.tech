@@ -1,0 +1,61 @@
+---
+layout: main
+title: Home
+---
+<div class="home">
+
+<p> Scroll through our blog posts or try the search function.</p>
+
+<!-- HTML elements for search -->
+<input type="text" id="search-input" placeholder="Search blog posts..">
+<ul id="results-container"></ul>
+
+<!-- or without installing anything -->
+<script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
+
+
+  <h2 class="page-heading">Posts</h2>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        {% assign categories = post.categories %}
+           in
+        {% for category in categories %}
+        <a href="{{site.baseurl}}/categories/#{{category|slugize}}"> {{category}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+        {% endfor %}
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {% if post.excerpt %}
+            {{ post.excerpt }}
+                    <a href="{{ post.url | prepend: site.baseurl }}">Read more..</a>
+                    <br>
+                    <br>
+        {% endif %}
+
+
+      {% if post %}
+        {% assign tags = post.tags %}
+      {% else %}
+        {% assign tags = page.tags %}
+      {% endif %}
+    
+    <i class="fas fa-tags"></i> 
+      {% for tag in tags %}
+      <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
+      {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+
+
+        <hr class="untight">
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

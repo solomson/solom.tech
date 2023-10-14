@@ -1,5 +1,5 @@
 ---
 layout: cv
-title: CV
+title: Our experience
 permalink: external-cv
 ---
