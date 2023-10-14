@@ -1,7 +1,7 @@
 ---
-layout: presentations
+layout: main
 title: Presentations
-permalink: presentations
+permalink: /presentations/
 ---
 
 ### Our presentations are available here:
