@@ -8,7 +8,7 @@ We can offer expertise in the following areas:
 
 ## Platform
 
-Need a cloud implemented, preferably last year? You are not alone.
+Need a cloud platform implemented, preferably last year? You are not alone.
 
 We have experience in both setting up cloud environments from scratch, and can help you get started with your cloud journey. If you are an existing Azure customer, we can help you optimize your existing cloud environment according to your business needs.
 

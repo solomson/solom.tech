@@ -4,8 +4,8 @@ title: Presentations
 permalink: presentations
 ---
 
-#<img src="{{site.baseurl}}/assets/img/favicon.png">
+<img src="{{site.baseurl}}/assets/img/favicon.png">
 
-Our presentations are available here:
+### Our presentations are available here:
 
-<img src="{{site.baseurl}}/assets/pdf/Dummy.pdf">
+<<p>Dummy presentation <a href="{{site.baseurl}}/assets/pdf/Dummy.pdf">Example </a></p>
