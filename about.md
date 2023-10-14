@@ -26,8 +26,10 @@ Among the things we can provide for your platform are:
 We can provide you with high quality guidance and quick implementation in the following areas: 
 
   - Microsoft Azure
-  - Github
-  - Azure DevOps
+  - Managing version control for your enterprise at scale
+    - Github
+    - Azure DevOps
+    - Gitlab
   - Kubernetes, Cloud Native & container based solutinos
   - Establishing and optimizing CI/CD at scale
   - Azure security and identity security at scale (Microsoft Entra, IaC, Private networking, RBAC, Azure policies, PIM)
