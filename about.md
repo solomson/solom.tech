@@ -30,7 +30,7 @@ We can provide you with high quality guidance and quick implementation in the fo
   - Azure DevOps
   - Kubernetes, Cloud Native & container based solutinos
   - Establishing and optimizing CI/CD at scale
-  - Azure and identity security at scale (Microsoft Entra, IaC, RBAC, Azure policies, PIM)
+  - Azure security and identity security at scale (Microsoft Entra, IaC, Private networking, RBAC, Azure policies, PIM)
 
 ###  Training
 
