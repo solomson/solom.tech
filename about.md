@@ -6,9 +6,9 @@ permalink: about
 
 We are a small company specializing in Microsoft cloud solutions. We are based in Trondheim, Norway and have been in business since 2021. We are a Microsoft partner and have been working with Microsoft Azure since 2018. We have experience with both small and large customers in both public and private sectors. and have worked with everything from small web applications to large enterprise solutions.
 
-# Our services
+## Our services
 
-## Platform
+###  Platform
 
 Need a cloud platform implemented, preferably last year? You are not alone.
 
@@ -21,7 +21,7 @@ We can provide you with:
 - CI/CD pipelines to manage your infrastructure
 - Documentation and training how to operate your platform in an efficient and secure manner.
 
-## Cloud services Consulting
+###  Cloud services Consulting
 
 We can provide you with high quality guidance and quick implementation in the following areas: 
 
@@ -32,11 +32,11 @@ We can provide you with high quality guidance and quick implementation in the fo
   - Optimizing CI/CD
   - Cloud Security hardening (IaC, RBAC, etc.)
 
-## Training
+###  Training
 
 Workshops, talks or presentations on various topics of your choice
 
-## Cloud service provider
+###  Cloud service provider
 
 If you do not wish to have operational responsibility of your cloud platform, we can provide you with managed services for your cloud environment. We can take care of your cloud environment, so you can focus on your core business.
 
