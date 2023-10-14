@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-We are a small company specializing in Microsoft cloud solutions. We are based in Trondheim, Norway and have been in business since 2021. We are a Microsoft partner and have been working with Microsoft Azure since 2018. We have experience with both small and large clients in both public and private sectors. and have worked with everything from small web applications to large enterprise solutions.
+We are a small company specializing in Microsoft cloud solutions. Based in Trondheim, Norway since 2021, we are available for projects on-site in Trondheim or remotely. We are also a Microsoft partner and have been working with Microsoft Azure since 2018. Our experience includes consulting for small and large clients in both public and private sectors.
 
 ## Our services
 
