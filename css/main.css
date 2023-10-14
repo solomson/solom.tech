@@ -2154,6 +2154,15 @@ input, select, textarea {
 			max-height:281px;
 			object-fit:scale-down;
 		}
+
+		.image.customer {
+			width: 100%;
+			max-width:600px;
+
+			max-width:500px;
+			max-height:281px;
+			object-fit:scale-down;
+		}
 	
 
 /* List */
