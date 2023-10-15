@@ -3114,6 +3114,10 @@ input, select, textarea {
 
 	@media screen and (max-width: 980px) {
 
+		.toggle-btn {
+			display: none;
+		}
+
 		/* Basic */
 
 			h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
