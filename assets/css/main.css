@@ -2382,6 +2382,10 @@ input, select, textarea {
 
 		@media screen and (max-width: 480px) {
 
+			.toggle-btn {
+				display: none;
+			}
+
 			ul.actions:not(.fixed) {
 				-moz-flex-direction: column;
 				-webkit-flex-direction: column;
